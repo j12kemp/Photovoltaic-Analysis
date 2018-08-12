@@ -1,0 +1,37 @@
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.exe.config
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.exe
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.pdb
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.csprojResolveAssemblyReference.cache
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.csproj.CoreCompileInputs.cache
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.exe
+C:\Users\Jaco.kemp\Documents\Visual Studio 2017\Projects\WeatherDataRequestTest\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.exe.config
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.exe
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.exe
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\WeatherDataRequestTest.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\obj\Debug\WeatherDataRequestTest.csprojResolveAssemblyReference.cache
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\Data\WeatherDataRequestTest\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\WeatherDataRequestTest.exe.config
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\obj\Debug\WeatherDataRequestTest.exe
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\obj\Debug\WeatherDataRequestTest.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\WeatherDataRequestTest.exe
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\WeatherDataRequestTest.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jaco.kemp\Documents\DataAnalytics\PV_Project_Submission\DataManagementApp\obj\Debug\WeatherDataRequestTest.csprojResolveAssemblyReference.cache
